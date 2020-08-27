@@ -6,6 +6,8 @@ You just have to put this file at `$HOME/.minttyrc` to get a nice *Git Bash* ter
 
 :warning: **Warning**: please make a backup of your existing `.minttyrc` before, if you don't know what you're doing.
 
+---
+
 In alternative, you can use the following *Bash* command:
 
 ```bash
